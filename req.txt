@@ -1,0 +1,4 @@
+openai
+pandas
+pinecone-client
+ipywidgets
